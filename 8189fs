@@ -4,5 +4,7 @@ find /lib -name 8189fs*
 /etc/modules
 8189fs
 
-/lıb/modules/3.4.39
+/lib/modules/3.4.39
 8189fs.ko
+
+sudo insmod /lib/modules/3.4.39/8189fs.ko
