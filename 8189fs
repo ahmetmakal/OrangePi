@@ -1,0 +1,8 @@
+find /lib -name 8189fs*
+/lib/modules/3.4.112-sun8i/kernel/drivers/net/wireless/rtl8189fs/8189fs.ko
+
+/etc/modules
+8189fs
+
+/lıb/modules/3.4.39
+8189fs.ko
